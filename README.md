@@ -14,7 +14,9 @@
 
 [<img align="left" alt="tallsage | YouTube" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />][youtube]
 [<img align="left" alt="tallsage | VK" width="22px" src="https://pngimg.com/uploads/vkontakte/vkontakte_PNG19.png" />][Vk]
+[<img align="left" alt="tallsage | VK" width="22px" src="https://assets.stickpng.com/thumbs/5842a8fba6515b1e0ad75b03.png" />][telegram]
 [<img align="left" alt="tallsage | instagram" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" />][instagram]
+[<img align="left" alt="tallsage | instagram" width="22px" src="https://banner2.cleanpng.com/20181123/rww/kisspng-logo-number-product-brand-line-subarray-sum-equals-k-leetcode-5bf88f0eb74725.4702531815430162067507.jpg" />][leetcode]
 [<img align="left" alt="tallsage | steam" width="22px" src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/share_steam_logo.png">][steam]
 
 <br />
@@ -72,6 +74,8 @@
 [youtube]: https://www.youtube.com/channel/UCU49fthRn7ULQ_SAZz0po7w/featured?view_as=subscriber
 [instagram]: https://www.instagram.com/tallsage/
 [Vk]: https://vk.com/tallsage
+[telegram]: https://t.me/tallsageJFF
+[leetcode]: https://leetcode.com/tallsagegame/
 [steam]: https://steamcommunity.com/id/tallsagegame/
 [vscode]: https://code.visualstudio.com/
 [html]: https://ru.wikipedia.org/wiki/HTML5
