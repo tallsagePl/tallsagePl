@@ -6,7 +6,7 @@
 
 - ⚡ I’m currently learning everything ⚡
 - ℹ️ I’m looking to collaborate with other content creators
-- 🤖 I'm jr bot and web developer 📱
+- 🤖 I'm frontend developer 📱
   
   
 ### Connect with me:
