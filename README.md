@@ -1,88 +1,75 @@
-### Hi there, I'm tallsage 👋🔀
+<div align="center">
+
+Hi, I'm Andrey Pleshakov 👋
+Senior Frontend Developer · Tech Lead
+I build scalable frontend platforms with React, TypeScript, Next.js and microfrontend architecture.
+ 
+ 
+ 
+</div>
+
+👨‍💻 About me
+- 5+ years in commercial frontend development
+- Currently leading a 9-person frontend team
+- Building warehouse logistics platforms from architecture to production
+- Strong focus on React / TypeScript / Next.js / Microfrontends
+- Experienced with platform architecture, shared libraries, CI/CD and engineering processes
+- Solved 250+ LeetCode problems
+🧩 What I work with
+Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,mui,vite,webpack" />
+</p>
+
+Architecture & Engineering
+Feature-Sliced Design · Module Federation · Microfrontends · Server-Driven UI
+Shared Libraries · Design Systems · PWA · REST · GraphQL
+Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=git,gitlab,docker,npm,figma" />
+</p>
+
+Storybook · Nexus · Axios · React Query · Zustand · Ant Design · Confluence
+🚀 Selected engineering impact
+Frontend Platform — M.Video–Eldorado
+- Designed and shipped a frontend platform from scratch to production
+- Built microfrontend architecture with Next.js hosts + Vite remotes + Module Federation
+- Created 2 internal npm packages used across 8 projects
+- Built a shared UI kit, Storybook, HTTP client and common infrastructure
+- Designed a unified JWT refresh protocol between host and remote applications
+- Implemented warehouse workflows including administration, packing, roles/access, TSD and mobile/PWA flows
+- Later became Tech Lead and took responsibility for architecture, delivery and engineering processes across a 9-person team
+Government Services / REC
+- Developed production web platforms for Russian Export Center projects
+- Migrated project architecture toward Feature-Sliced Design
+- Developed and evolved Server-Driven UI
+- Refactored legacy frontend architecture and standardized development practices
+🧠 Areas I care about
+const engineering = {
+  frontend: ["React", "TypeScript", "Next.js"],
+  architecture: ["FSD", "Microfrontends", "Module Federation", "SDUI"],
+  state: ["Redux", "Zustand", "React Query"],
+  platform: ["Shared Libraries", "UI Kit", "Storybook"],
+  delivery: ["GitLab CI/CD", "Docker", "Nexus"],
+  interests: ["Frontend Architecture", "DX", "Performance", "Team Leadership"],
+};
+📊 GitHub
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tallsagePl&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallsagePl&layout=compact&hide_border=true&langs_count=8" />
 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tallsagePl&hide_border=true" />
 
-## I'm a Developer from Mather Russia
+</div>
 
-- ⚡ I’m currently learning everything ⚡
-- ℹ️ I’m looking to collaborate with other content creators
-- 🤖 I'm frontend developer 📱
-  
-  
-### Connect with me:
+🎓 Background
+Moscow Institute of Electronic Technology (MIET)
+BSc in Applied Informatics, 2024
+🏆 Prize-winning hackathon project — analytical Telegram bot for Big Data
+<div align="center">
 
-
-[<img align="left" alt="tallsage | YouTube" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />][youtube]
-[<img align="left" alt="tallsage | VK" width="22px" src="https://pngimg.com/uploads/vkontakte/vkontakte_PNG19.png" />][Vk]
-[<img align="left" alt="tallsage | telegram" width="22px" src="https://icon2.cleanpng.com/20180715/eou/kisspng-computer-icons-telegram-logo-5b4bb35b4317c6.9459736115316877712748.jpg" />][telegram]
-[<img align="left" alt="tallsage | instagram" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" />][instagram]
-[<img align="left" alt="tallsage | leetcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/LeetCode_Logo_3.png" />][leetcode]
-[<img align="left" alt="tallsage | steam" width="22px" src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/share_steam_logo.png">][steam]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
-
-<!-- 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!-- 1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) -->
-<!--END_SECTION:activity-->
-<!-- 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details> -->
-
-
-
-[youtube]: https://www.youtube.com/channel/UCU49fthRn7ULQ_SAZz0po7w/featured?view_as=subscriber
-[instagram]: https://www.instagram.com/tallsage/
-[Vk]: https://vk.com/tallsage
-[telegram]: https://t.me/tallsageJFF
-[leetcode]: https://leetcode.com/tallsagegame/
-[steam]: https://steamcommunity.com/id/tallsagegame/
-[vscode]: https://code.visualstudio.com/
-[html]: https://ru.wikipedia.org/wiki/HTML5
-[css]: https://ru.wikipedia.org/wiki/CSS
-[js]: https://www.javascript.com/
-[react]: https://reactjs.org/
-[nodejs]: https://nodejs.org/en/
-[mongo]: https://www.mongodb.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
+Open to interesting frontend engineering challenges
+React · TypeScript · Next.js · Frontend Architecture · Tech Leadership
+</div>
